@@ -1,0 +1,63 @@
+{
+  "name": "stem-command-centre",
+  "private": true,
+  "description": "Dummy business page for highlighting password security and social engineering",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "esdoc": "^1.1.0",
+    "esdoc-node": "^1.0.4",
+    "esdoc-react-plugin": "^1.0.1",
+    "esdoc-standard-plugin": "^1.0.0",
+    "esdoc-typescript-plugin": "^1.0.1",
+    "gatsby": "^2.13.51",
+    "gatsby-background-image": "^0.8.3",
+    "gatsby-cli": "^2.7.28",
+    "gatsby-image": "^2.0.41",
+    "gatsby-plugin-manifest": "^2.12.1",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.1.3",
+    "gatsby-plugin-sass": "^2.1.4",
+    "gatsby-plugin-sharp": "^2.14.4",
+    "gatsby-remark-copy-linked-files": "^2.1.13",
+    "gatsby-remark-images": "^3.1.19",
+    "gatsby-remark-prismjs": "^3.3.9",
+    "gatsby-remark-responsive-iframe": "^2.2.10",
+    "gatsby-remark-smartypants": "^2.1.5",
+    "gatsby-source-filesystem": "^2.1.8",
+    "gatsby-transformer-remark": "^2.6.19",
+    "gatsby-transformer-sharp": "^2.12.1",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.12.0",
+    "prismjs": "^1.17.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.10",
+    "react-datepicker": "^2.8.0",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-icons": "^3.7.0",
+    "typescript": "^3.5.3",
+    "typography": "^0.16.19",
+    "typography-theme-wordpress-2016": "^0.16.19"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.ipa.amiosec.co.uk/stem/stem-command-centre"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
